@@ -9,7 +9,7 @@ Projeto de desafio da DIO (Digital Inovation One)
 
 :computer: [Clique aqui para acessar a aplicação](https://riccettodev.github.io/detona-ralph/)
 
-![Game Detona Ralph](./src/img/doc/project.png)
+![Game Detona Ralph](./src/img/doc/project.PNG)
 
 ## Tecnologias
 
