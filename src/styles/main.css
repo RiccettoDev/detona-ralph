@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url("../img/wall.jpeg");
+  background-size: cover;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  height: 135px;
+  width: 100%;
+  background-color: #000000;
+  color: #FFFFFF;
+  border-bottom: 5px solid #ffd700;
+}
+
+.menu-time h2 {
+  margin-top: 1em;
+}
+
+.menu-score h2 {
+  margin-top: 1em;
+}
+
+.menu-lives {
+  display: flex;
+  gap: 20px;
+}
+
+.menu-lives h2 {
+  margin-top: 1em;
+}
+
+.panel {
+  margin-top: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square {
+  width: 250px;
+  height: 250px;
+  border: 1px solid #000000;
+  background-color: #1aeaa5;
+}
+
+.enemy {
+  background-image: url("../img/detonaRalph.png");
+  background-size: cover;
+}
